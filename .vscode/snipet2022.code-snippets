@@ -50,5 +50,17 @@
 				"</div>",
 				"",
 			]
+		},
+		"kch":{
+			"prefix": "kch",
+			"body": [
+				"<div class=\"d9\" style=\"font-size:9pt; background-color: #FFFAFA\">",
+				"- [x] 未編集",
+				"- [ ] 編集中",
+				"- [ ] 編集済み",
+				"</div>",
+				"",
+				"",
+			]
 		}
 }
